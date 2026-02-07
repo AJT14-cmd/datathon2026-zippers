@@ -1,3 +1,6 @@
 .venv/
 venv/
 *.png
+*.pkl
+*.md
+!README.md
